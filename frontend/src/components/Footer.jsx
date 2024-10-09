@@ -1,4 +1,8 @@
 import React from "react";
+
+import Footer from "./sticky_footer/Footer";
+//import MainFooter from "./MainFooter";
+
 import img from "./Footer/logo.png";
 import { Link } from "react-router-dom";
 
